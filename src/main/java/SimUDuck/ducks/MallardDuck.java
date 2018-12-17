@@ -1,6 +1,8 @@
-package SimUDuck;
+package SimUDuck.ducks;
 
-public class MallardDuck extends Duck implements Flyable, Quackable{
+import SimUDuck.ducks.Duck;
+
+public class MallardDuck extends Duck {
 
     void display() {
         System.out.println("MallardDuck");

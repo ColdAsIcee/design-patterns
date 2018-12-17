@@ -1,6 +1,8 @@
-package SimUDuck;
+package SimUDuck.ducks;
 
-public class RedheadDuck extends Duck implements Flyable, Quackable {
+import SimUDuck.ducks.Duck;
+
+public class RedheadDuck extends Duck {
 
     void display() {
         System.out.println("RedheadDuck");

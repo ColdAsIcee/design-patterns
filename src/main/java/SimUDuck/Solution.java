@@ -1,5 +1,10 @@
 package SimUDuck;
 
+import SimUDuck.ducks.Duck;
+import SimUDuck.ducks.MallardDuck;
+import SimUDuck.ducks.RedheadDuck;
+import SimUDuck.ducks.RubberDuck;
+
 public class Solution {
 
     public static void main(String[] args) {

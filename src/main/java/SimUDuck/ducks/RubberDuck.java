@@ -1,6 +1,8 @@
-package SimUDuck;
+package SimUDuck.ducks;
 
-public class RubberDuck extends Duck implements Quackable {
+import SimUDuck.ducks.Duck;
+
+public class RubberDuck extends Duck {
 
     void display() {
         System.out.println("RubberDuck");
