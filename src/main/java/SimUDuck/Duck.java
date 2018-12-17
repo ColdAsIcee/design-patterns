@@ -1,11 +1,11 @@
 package SimUDuck;
 
-public class Duck {
+abstract public class Duck {
 
-    public void quack() {}
+    public void swim() {
+        System.out.println("swim");
+    }
 
-    public void swim() {}
-
-    public void display() {}
+    abstract void display();
 
 }
