@@ -1,6 +1,4 @@
-package SimUDuck.ducks;
-
-import SimUDuck.ducks.Duck;
+package strategy_SimUDuck.ducks;
 
 public class DecoyDuck  {
 

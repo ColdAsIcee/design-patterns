@@ -1,7 +1,7 @@
-package SimUDuck.quack;
+package strategy_SimUDuck.quack;
 
 public class MuteQuack implements QuackBehavior {
     public void quack() {
-        System.out.println("Mute quack");
+        System.out.println("Silence");
     }
 }

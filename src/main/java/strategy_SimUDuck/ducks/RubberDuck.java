@@ -1,6 +1,4 @@
-package SimUDuck.ducks;
-
-import SimUDuck.ducks.Duck;
+package strategy_SimUDuck.ducks;
 
 public class RubberDuck extends Duck {
 
@@ -8,7 +6,4 @@ public class RubberDuck extends Duck {
         System.out.println("RubberDuck");
     }
 
-    public void quack() {
-
-    }
 }

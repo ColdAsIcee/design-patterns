@@ -1,4 +1,4 @@
-package SimUDuck.fly;
+package strategy_SimUDuck.fly;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {

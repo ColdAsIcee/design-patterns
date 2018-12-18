@@ -1,4 +1,4 @@
-package SimUDuck.quack;
+package strategy_SimUDuck.quack;
 
 public class Quack implements QuackBehavior {
     public void quack() {
