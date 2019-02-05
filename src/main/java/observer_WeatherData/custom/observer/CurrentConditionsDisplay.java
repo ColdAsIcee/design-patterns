@@ -1,6 +1,5 @@
 package observer_WeatherData.custom.observer;
 
-import observer_WeatherData.custom.DisplayElement;
 import observer_WeatherData.custom.observable.Subject;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {

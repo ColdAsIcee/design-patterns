@@ -1,4 +1,4 @@
-package observer_WeatherData.custom;
+package observer_WeatherData.custom.observer;
 
 public interface DisplayElement {
 

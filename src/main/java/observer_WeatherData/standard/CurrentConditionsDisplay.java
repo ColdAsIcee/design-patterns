@@ -1,6 +1,6 @@
 package observer_WeatherData.standard;
 
-import observer_WeatherData.custom.DisplayElement;
+import observer_WeatherData.custom.observer.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;
